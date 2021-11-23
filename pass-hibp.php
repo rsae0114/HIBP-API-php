@@ -1,6 +1,6 @@
 <?php # -*- coding: utf-8 -*-
 /*
-Plugin Name: HaveIBeenPwned Password
+Name: HaveIBeenPwned Password
 Author: rsae
 */
 
@@ -8,7 +8,7 @@ Author: rsae
 $HIBP_BASE_URI = 'https://api.pwnedpasswords.com';
 
 // Define password
-$password = "a";
+$password = "p4ssW0rd";
 
 // Hashed password
 $hashedPassword = strtoupper(sha1($password));
