@@ -1,6 +1,6 @@
 <?php # -*- coding: utf-8 -*-
 /*
-Plugin Name: HaveIBeenPwned Account
+Name: HaveIBeenPwned Account
 Author: rsae
 */
 
