@@ -1,3 +1,3 @@
 # HIBP-API-php
 
-PHP scripts to query de HaveIBeenPwned API
+PHP scripts to query HaveIBeenPwned API
